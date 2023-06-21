@@ -1,0 +1,19 @@
+Product: maggie
+Quantity: 23
+CP: 13
+SP: 15
+
+Product: ketchup
+Quantity: 23
+CP: 90
+SP: 100
+
+Product: biscuits
+Quantity: 14
+CP: 23
+SP: 25
+
+Product: oil
+Quantity: 16
+CP: 130
+SP: 150

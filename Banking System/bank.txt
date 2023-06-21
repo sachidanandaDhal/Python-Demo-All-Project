@@ -1,0 +1,9 @@
+{
+    "102": {
+        "Name": "bubu",
+        "Age": "21",
+        "Address": "bhadrak",
+        "Phone": "8922",
+        "Amount": 5342
+    }
+}
